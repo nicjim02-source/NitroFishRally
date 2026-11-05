@@ -1,37 +1,32 @@
-# 🐟 NITRO FISH RALLY DX 🐉
+<div align="center">
 
-Nitro Fish Rally Deluxe es un juego de carreras de rally desarrollado por LUHPEN Games. Controla al salmón alfredo-chan en su trepidante viaje a la ascensión.
+# 🐟 NITRO FISH RALLY <sup>`DX`</sup> 🐉
+### *Derrapa por Japón. Acumula Aura. Conviértete en leyenda.*
 
+Desarrollado por **LUHPEN Games**
 
+[**🕹️ Jugar en el navegador**](https://github.io) &nbsp;•&nbsp; [**📖 Diseño (GDD)**](GDD.md) &nbsp;•&nbsp; [**🎨 Assets**](assets.md) &nbsp;•&nbsp; [**🐛 Reportar fallo**](https://github.com)
 
-### Acelera a fondo
+</div>
 
-Derrapa en cada curva para rascar el mejor tiempo en tres desafiantes circuitos a lo largo de todo Japón
+> **Nitro Fish Rally Deluxe** es un juego de carreras arcade protagonizado por el salmón **alfredo-chan** a través de Japón.
 
-![](./assets/images/hudNivel(provisional).png)
+## 🔥 Características principales
+* 🏎️ **Acelera a fondo:** Compite en tres circuitos desafiantes.
+* ✨ **Acumula Aura:** Supera obstáculos sin chocar para avanzar en la historia.
+* 🔧 **Personaliza:** Modifica piezas para ajustar aceleración, control y freno.
+* 🐉 **Asciende:** Transforma a alfredo-chan en un dragón milenario.
 
-### Acumula Aura
+## 🎮 Controles
+* **Acelerar:** <kbd>W</kbd> / <kbd>↑</kbd> | **Frenar:** <kbd>S</kbd> / <kbd>↓</kbd>
+* **Girar:** <kbd>A</kbd> / <kbd>D</kbd> / <kbd>←</kbd> / <kbd>→</kbd> | **Derrape / Nitro:** <kbd>Espacio</kbd>
 
-¡Cuidado! No solo es suficiente con completar el circuito. Acumula aura superando los obstáculos con destreza y sin chocarte para avanzar en la increíble historia de alfredo-chan
+## 💻 Desarrollo y estructura
+* **Ejecutar local:** Clona el repositorio (`git clone https://github.com`), entra al directorio y abre `index.html` mediante un servidor local (como Live Server o `npx serve`).
+* **Estructura:** Organizado en carpetas `assets/`, `css/`, `lib/`, `src/`, `types/`, además de `GDD.md` e `index.html`.
 
-![](./assets/images/menu(provisional).png)
-
-### Hazlo tuyo
-
-Encuentra la armonía modificando las distintas piezas de alfredo-chan hasta encontrar la combinación perfecta de aceleración, control y freno
-
-![](./assets/images/menuPiezas(provisional).png)
-
-
-### Asciende
-
-Convierte a alfredo-chan en un dragón milenario como dictan los pergaminos de la profecía
-
-![](./assets/images/mainMenu.png)
-
-
-Este juego es un proyecto para la asignatura de Programación de Videojuegos en Lenguajes Interpretados.
-
+## 🎓 Sobre el proyecto
+Proyecto académico para la asignatura de **Programación de Videojuegos en Lenguajes Interpretados** por **LUHPEN Games** ([YouTube](https://youtube.com) | [X](https://x.com)).
 
 
 YouTube: https://www.youtube.com/@LUHPENG
