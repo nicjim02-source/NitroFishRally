@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🐟 NITRO FISH RALLY <sup>`DX`</sup> 🐉
-### *Derrapa por Japón. Acumula Aura. Conviértete en leyenda.*
+### *Derrapa por Japón. Acumula Aura. Conviértete en un dragón.*
 
 Desarrollado por **LUHPEN Games**
 
