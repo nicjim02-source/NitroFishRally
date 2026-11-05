@@ -18,8 +18,7 @@ Desarrollado por **LUHPEN Games**
 * 🐉 **Asciende:** Transforma a alfredo-chan en un dragón milenario.
 
 ## 🎮 Controles
-* **Acelerar:** <kbd>W</kbd> / <kbd>↑</kbd> | **Frenar:** <kbd>S</kbd> / <kbd>↓</kbd>
-* **Girar:** <kbd>A</kbd> / <kbd>D</kbd> / <kbd>←</kbd> / <kbd>→</kbd> | **Derrape / Nitro:** <kbd>Espacio</kbd>
+* **Acelerar:** <kbd>W</kbd> | **Frenar:** <kbd>S</kbd> | **Girar:** <kbd>A</kbd> 
 
 ## 💻 Desarrollo y estructura
 * **Ejecutar local:** Clona el repositorio (`git clone https://github.com`), entra al directorio y abre `index.html` mediante un servidor local (como Live Server o `npx serve`).
