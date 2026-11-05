@@ -13,9 +13,13 @@ Desarrollado por **LUHPEN Games**
 
 ## 🔥 Características principales
 * 🏎️ **Acelera a fondo:** Compite en tres circuitos desafiantes.
+* ![](./assets/images/hudNivel(provisional).png)
 * ✨ **Acumula Aura:** Supera obstáculos sin chocar para avanzar en la historia.
+* ![](./assets/images/menu(provisional).png)
 * 🔧 **Personaliza:** Modifica piezas para ajustar aceleración, control y freno.
+* ![](./assets/images/menuPiezas(provisional).png)
 * 🐉 **Asciende:** Transforma a alfredo-chan en un dragón milenario.
+* ![](./assets/images/mainMenu.png)
 
 ## 🎮 Controles
 * **Acelerar:** <kbd>W</kbd> | **Frenar:** <kbd>S</kbd> | **Girar:** <kbd>A</kbd> / <kbd>D</kbd> 
