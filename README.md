@@ -24,7 +24,7 @@ Desarrollado por **LUHPEN Games**
 * **Ejecutar local:** Clona el repositorio , y ejecuta mediante un servidor local.
 
 ## 🎓 Sobre el proyecto
-Proyecto académico para la asignatura de **Programación de Videojuegos en Lenguajes Interpretados** por **LUHPEN Games** ([YouTube](https://youtube.com) | [X](https://x.com)).
+Proyecto académico para la asignatura de **Programación de Videojuegos en Lenguajes Interpretados** por **LUHPEN Games**.
 
 
 YouTube: https://www.youtube.com/@LUHPENG
