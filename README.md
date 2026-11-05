@@ -5,7 +5,7 @@
 
 Desarrollado por **LUHPEN Games**
 
-[**🕹️ Jugar en el navegador**](https://github.io) &nbsp;•&nbsp; [**📖 Diseño (GDD)**](GDD.md) &nbsp;•&nbsp; [**🎨 Assets**](assets.md) &nbsp;•&nbsp; [**🐛 Reportar fallo**](https://github.com)
+[**📖 Diseño (GDD)**](GDD.md) &nbsp;•&nbsp; [**🎨 Assets**](assets.md) &nbsp;•&nbsp; [**🐛 Reportar fallo**](https://github.com)
 
 </div>
 
