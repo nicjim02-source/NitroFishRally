@@ -30,7 +30,6 @@ Desarrollado por **LUHPEN Games**
 ## 🎓 Sobre el proyecto
 Proyecto académico para la asignatura de **Programación de Videojuegos en Lenguajes Interpretados** por **LUHPEN Games**.
 
-
-[![Texto alternativo](https://youtube.com)](https://youtube.com) YouTube: https://www.youtube.com/@LUHPENG
+[![Ver en YouTube](https://youtube.com)](https://youtube.com) YouTube: https://www.youtube.com/@LUHPENG
 Twitter: https://x.com/LUHPENG\_NFRDX
 Web: https://github.com/ensatrus/NitroFishRally
