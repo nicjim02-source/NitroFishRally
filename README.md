@@ -20,9 +20,8 @@ Desarrollado por **LUHPEN Games**
 ## 🎮 Controles
 * **Acelerar:** <kbd>W</kbd> | **Frenar:** <kbd>S</kbd> | **Girar:** <kbd>A</kbd> / <kbd>D</kbd> 
 
-## 💻 Desarrollo y estructura
-* **Ejecutar local:** Clona el repositorio (`git clone https://github.com`), entra al directorio y abre `index.html` mediante un servidor local (como Live Server o `npx serve`).
-* **Estructura:** Organizado en carpetas `assets/`, `css/`, `lib/`, `src/`, `types/`, además de `GDD.md` e `index.html`.
+## 💻 Ejecución
+* **Ejecutar local:** Clona el repositorio , y ejecuta mediante un servidor local.
 
 ## 🎓 Sobre el proyecto
 Proyecto académico para la asignatura de **Programación de Videojuegos en Lenguajes Interpretados** por **LUHPEN Games** ([YouTube](https://youtube.com) | [X](https://x.com)).
