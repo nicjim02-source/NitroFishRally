@@ -9,7 +9,7 @@ Desarrollado por **LUHPEN Games**
 
 </div>
 
-> **Nitro Fish Rally Deluxe** es un juego de carreras arcade protagonizado por el salmón **alfredo-chan** a través de Japón.
+> **Nitro Fish Rally Deluxe** es un juego de carreras arcade protagonizado por la carpa **alfredo-chan** a través de Japón.
 
 ## 🔥 Características principales
 * 🏎️ **Acelera a fondo:** Compite en tres circuitos desafiantes.
